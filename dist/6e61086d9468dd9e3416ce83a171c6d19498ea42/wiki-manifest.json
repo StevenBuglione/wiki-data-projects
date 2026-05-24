@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "steve-wiki-manifest/v1",
+  "source": {
+    "id": "projects",
+    "label": "Projects",
+    "sourceCommit": "6e61086d9468dd9e3416ce83a171c6d19498ea42"
+  },
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@6e61086d9468dd9e3416ce83a171c6d19498ea42/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@6e61086d9468dd9e3416ce83a171c6d19498ea42/assets/",
+  "pages": [
+    {
+      "id": "projects:index",
+      "sourceId": "projects",
+      "title": "Projects",
+      "description": "Project notes, application architecture, roadmaps, and retrospectives",
+      "slug": "index",
+      "file": "index.md",
+      "tags": [
+        "index"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "draft",
+        "difficulty": "beginner"
+      },
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-24T20:25:00.600Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-projects/edit/main/docs/index.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "Projects",
+          "anchor": "projects"
+        }
+      ]
+    },
+    {
+      "id": "projects:projects-starter-content",
+      "sourceId": "projects",
+      "title": "Research Projects starter content",
+      "description": "Research starter content for Projects.",
+      "slug": "projects-starter-content",
+      "file": "projects-starter-content.md",
+      "tags": [
+        "research"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-24T20:25:00.601Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-projects/edit/main/docs/projects-starter-content.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "Research Projects starter content",
+          "anchor": "research-projects-starter-content"
+        },
+        {
+          "depth": 2,
+          "text": "Summary",
+          "anchor": "summary"
+        },
+        {
+          "depth": 2,
+          "text": "Research Notes",
+          "anchor": "research-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        }
+      ]
+    }
+  ],
+  "sidebar": [
+    {
+      "type": "category",
+      "label": "Projects",
+      "items": [
+        "projects:index",
+        "projects:projects-starter-content"
+      ]
+    }
+  ]
+}

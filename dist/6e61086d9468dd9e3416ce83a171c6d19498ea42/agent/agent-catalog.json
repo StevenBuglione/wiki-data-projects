@@ -19,6 +19,20 @@
         "last_verified": "2026-05-24",
         "confidence": "medium"
       }
+    },
+    {
+      "id": "projects:projects-starter-content",
+      "title": "Research Projects starter content",
+      "slug": "projects-starter-content",
+      "tags": [
+        "research"
+      ],
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      }
     }
   ]
 }

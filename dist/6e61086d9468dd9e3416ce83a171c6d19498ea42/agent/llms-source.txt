@@ -4,3 +4,4 @@
 
 ## Pages
 - [Projects](/wiki/?s=projects&p=index)
+- [Research Projects starter content](/wiki/?s=projects&p=projects-starter-content)
