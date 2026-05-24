@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "steve-wiki-source/v1",
+  "id": "projects",
+  "label": "Projects",
+  "description": "Project notes, application architecture, roadmaps, and retrospectives",
+  "language": "en",
+  "contentRoot": "docs",
+  "assetsRoot": "assets",
+  "defaultPage": "index",
+  "repoUrl": "https://github.com/StevenBuglione/wiki-data-projects",
+  "editBaseUrl": "https://github.com/StevenBuglione/wiki-data-projects/edit/main/docs",
+  "facets": {
+    "area": [
+      "general"
+    ],
+    "status": [
+      "draft",
+      "active",
+      "deprecated",
+      "archived"
+    ],
+    "difficulty": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ]
+  }
+}
