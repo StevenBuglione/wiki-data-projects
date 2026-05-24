@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "steve-wiki-latest/v1",
+  "sourceId": "projects",
+  "sourceCommit": "bootstrap",
+  "generatedAt": "2026-05-24T18:46:58.702Z",
+  "artifactBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/bootstrap/",
+  "manifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/bootstrap/wiki-manifest.json",
+  "catalogUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/bootstrap/wiki-catalog.json",
+  "pagefindBundleUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/bootstrap/pagefind/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@main/docs/"
+}
