@@ -3,10 +3,10 @@
   "source": {
     "id": "projects",
     "label": "Projects",
-    "sourceCommit": "83d935d8afb84b0cb76c0d456502619f488ce7d8"
+    "sourceCommit": "39a09ba0db67ffe0ba619f9e1968d84edbb610b9"
   },
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@83d935d8afb84b0cb76c0d456502619f488ce7d8/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@83d935d8afb84b0cb76c0d456502619f488ce7d8/assets/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@39a09ba0db67ffe0ba619f9e1968d84edbb610b9/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@39a09ba0db67ffe0ba619f9e1968d84edbb610b9/assets/",
   "pages": [
     {
       "id": "projects:index",
@@ -30,7 +30,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-24T19:15:39.173Z",
+      "updatedAt": "2026-05-24T19:35:13.065Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-projects/edit/main/docs/index.md",
       "headings": [
         {

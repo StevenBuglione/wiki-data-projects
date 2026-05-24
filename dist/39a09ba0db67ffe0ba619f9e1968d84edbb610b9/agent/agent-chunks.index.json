@@ -1,7 +1,7 @@
 {
   "schemaVersion": "steve-wiki-agent-chunks-index/v1",
   "sourceId": "projects",
-  "sourceCommit": "83d935d8afb84b0cb76c0d456502619f488ce7d8",
+  "sourceCommit": "39a09ba0db67ffe0ba619f9e1968d84edbb610b9",
   "shards": [
     {
       "path": "chunks/chunks-0001.jsonl",
