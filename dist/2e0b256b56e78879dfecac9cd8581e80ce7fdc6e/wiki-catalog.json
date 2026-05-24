@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "steve-wiki-catalog/v1",
+  "source": {
+    "id": "projects",
+    "label": "Projects",
+    "description": "Project notes, application architecture, roadmaps, and retrospectives"
+  },
+  "counts": {
+    "pages": 1,
+    "tags": 1,
+    "assets": 0
+  },
+  "topLevelNavigation": [
+    {
+      "label": "Projects",
+      "slug": "index",
+      "count": 1
+    }
+  ],
+  "recentlyUpdated": [
+    {
+      "pageId": "projects:index",
+      "title": "Projects",
+      "updatedAt": "2026-05-24T19:08:06.064Z"
+    }
+  ]
+}

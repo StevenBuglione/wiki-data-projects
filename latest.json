@@ -1,11 +1,16 @@
 {
   "schemaVersion": "steve-wiki-latest/v1",
   "sourceId": "projects",
-  "sourceCommit": "bootstrap",
-  "generatedAt": "2026-05-24T18:46:58.702Z",
-  "artifactBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/bootstrap/",
-  "manifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/bootstrap/wiki-manifest.json",
-  "catalogUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/bootstrap/wiki-catalog.json",
-  "pagefindBundleUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/bootstrap/pagefind/",
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@main/docs/"
+  "sourceCommit": "2e0b256b56e78879dfecac9cd8581e80ce7fdc6e",
+  "generatedAt": "2026-05-24T19:08:06.103Z",
+  "artifactBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/2e0b256b56e78879dfecac9cd8581e80ce7fdc6e/",
+  "manifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/2e0b256b56e78879dfecac9cd8581e80ce7fdc6e/wiki-manifest.json",
+  "catalogUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/2e0b256b56e78879dfecac9cd8581e80ce7fdc6e/wiki-catalog.json",
+  "tagsUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/2e0b256b56e78879dfecac9cd8581e80ce7fdc6e/wiki-tags.json",
+  "graphUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/2e0b256b56e78879dfecac9cd8581e80ce7fdc6e/wiki-graph.json",
+  "healthUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/2e0b256b56e78879dfecac9cd8581e80ce7fdc6e/wiki-health.json",
+  "pagefindBundleUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/2e0b256b56e78879dfecac9cd8581e80ce7fdc6e/pagefind/",
+  "agentManifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/2e0b256b56e78879dfecac9cd8581e80ce7fdc6e/agent/agent-manifest.json",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@2e0b256b56e78879dfecac9cd8581e80ce7fdc6e/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@2e0b256b56e78879dfecac9cd8581e80ce7fdc6e/assets/"
 }

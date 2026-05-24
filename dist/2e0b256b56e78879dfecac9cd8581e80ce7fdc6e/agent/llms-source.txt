@@ -1,0 +1,6 @@
+# Projects
+
+> Project notes, application architecture, roadmaps, and retrospectives
+
+## Pages
+- [Projects](/wiki/?s=projects&p=index)
