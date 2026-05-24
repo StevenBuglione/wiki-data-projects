@@ -3,11 +3,64 @@
   "source": {
     "id": "projects",
     "label": "Projects",
-    "sourceCommit": "6e61086d9468dd9e3416ce83a171c6d19498ea42"
+    "sourceCommit": "f513ee8c0f8459e804945485d495a17f63767116"
   },
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@6e61086d9468dd9e3416ce83a171c6d19498ea42/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@6e61086d9468dd9e3416ce83a171c6d19498ea42/assets/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@f513ee8c0f8459e804945485d495a17f63767116/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@f513ee8c0f8459e804945485d495a17f63767116/assets/",
   "pages": [
+    {
+      "id": "projects:canary-omg-full-loop-project",
+      "sourceId": "projects",
+      "title": "Starter Project Documentation Checklist",
+      "description": "A general, low-risk starter checklist for documenting small software projects with a README, changelog, issue templates, and release notes.",
+      "slug": "canary-omg-full-loop-project",
+      "file": "canary-omg-full-loop-project.md",
+      "tags": [
+        "research",
+        "projects"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-24T22:06:41.209Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-projects/edit/main/docs/canary-omg-full-loop-project.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "Starter Project Documentation Checklist",
+          "anchor": "starter-project-documentation-checklist"
+        },
+        {
+          "depth": 2,
+          "text": "Summary",
+          "anchor": "summary"
+        },
+        {
+          "depth": 2,
+          "text": "Research Notes",
+          "anchor": "research-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Drafting Notes",
+          "anchor": "drafting-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        }
+      ]
+    },
     {
       "id": "projects:index",
       "sourceId": "projects",
@@ -30,7 +83,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-24T20:25:00.600Z",
+      "updatedAt": "2026-05-24T22:06:41.210Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-projects/edit/main/docs/index.md",
       "headings": [
         {
@@ -62,7 +115,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-24T20:25:00.601Z",
+      "updatedAt": "2026-05-24T22:06:41.210Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-projects/edit/main/docs/projects-starter-content.md",
       "headings": [
         {
@@ -93,6 +146,7 @@
       "type": "category",
       "label": "Projects",
       "items": [
+        "projects:canary-omg-full-loop-project",
         "projects:index",
         "projects:projects-starter-content"
       ]

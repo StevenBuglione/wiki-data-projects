@@ -3,5 +3,6 @@
 > Project notes, application architecture, roadmaps, and retrospectives
 
 ## Pages
+- [Starter Project Documentation Checklist](/wiki/?s=projects&p=canary-omg-full-loop-project)
 - [Projects](/wiki/?s=projects&p=index)
 - [Research Projects starter content](/wiki/?s=projects&p=projects-starter-content)

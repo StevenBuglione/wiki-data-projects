@@ -1,16 +1,16 @@
 {
   "schemaVersion": "steve-wiki-latest/v1",
   "sourceId": "projects",
-  "sourceCommit": "6e61086d9468dd9e3416ce83a171c6d19498ea42",
-  "generatedAt": "2026-05-24T20:25:00.606Z",
-  "artifactBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/6e61086d9468dd9e3416ce83a171c6d19498ea42/",
-  "manifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/6e61086d9468dd9e3416ce83a171c6d19498ea42/wiki-manifest.json",
-  "catalogUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/6e61086d9468dd9e3416ce83a171c6d19498ea42/wiki-catalog.json",
-  "tagsUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/6e61086d9468dd9e3416ce83a171c6d19498ea42/wiki-tags.json",
-  "graphUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/6e61086d9468dd9e3416ce83a171c6d19498ea42/wiki-graph.json",
-  "healthUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/6e61086d9468dd9e3416ce83a171c6d19498ea42/wiki-health.json",
-  "pagefindBundleUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/6e61086d9468dd9e3416ce83a171c6d19498ea42/pagefind/",
-  "agentManifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/6e61086d9468dd9e3416ce83a171c6d19498ea42/agent/agent-manifest.json",
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@6e61086d9468dd9e3416ce83a171c6d19498ea42/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@6e61086d9468dd9e3416ce83a171c6d19498ea42/assets/"
+  "sourceCommit": "f513ee8c0f8459e804945485d495a17f63767116",
+  "generatedAt": "2026-05-24T22:06:41.215Z",
+  "artifactBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/f513ee8c0f8459e804945485d495a17f63767116/",
+  "manifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/f513ee8c0f8459e804945485d495a17f63767116/wiki-manifest.json",
+  "catalogUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/f513ee8c0f8459e804945485d495a17f63767116/wiki-catalog.json",
+  "tagsUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/f513ee8c0f8459e804945485d495a17f63767116/wiki-tags.json",
+  "graphUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/f513ee8c0f8459e804945485d495a17f63767116/wiki-graph.json",
+  "healthUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/f513ee8c0f8459e804945485d495a17f63767116/wiki-health.json",
+  "pagefindBundleUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/f513ee8c0f8459e804945485d495a17f63767116/pagefind/",
+  "agentManifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@published/dist/f513ee8c0f8459e804945485d495a17f63767116/agent/agent-manifest.json",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@f513ee8c0f8459e804945485d495a17f63767116/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-projects@f513ee8c0f8459e804945485d495a17f63767116/assets/"
 }

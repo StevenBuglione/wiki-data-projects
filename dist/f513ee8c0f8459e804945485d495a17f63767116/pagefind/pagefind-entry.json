@@ -4,6 +4,20 @@
   "note": "Pagefind-ready metadata placeholder for V1; full index generation is wired next.",
   "pages": [
     {
+      "id": "projects:canary-omg-full-loop-project",
+      "title": "Starter Project Documentation Checklist",
+      "filters": {
+        "source": "projects",
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate",
+        "tags": [
+          "research",
+          "projects"
+        ]
+      }
+    },
+    {
       "id": "projects:index",
       "title": "Projects",
       "filters": {

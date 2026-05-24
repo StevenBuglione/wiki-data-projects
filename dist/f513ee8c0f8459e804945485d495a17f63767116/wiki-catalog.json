@@ -6,11 +6,16 @@
     "description": "Project notes, application architecture, roadmaps, and retrospectives"
   },
   "counts": {
-    "pages": 2,
-    "tags": 2,
+    "pages": 3,
+    "tags": 3,
     "assets": 0
   },
   "topLevelNavigation": [
+    {
+      "label": "Starter Project Documentation Checklist",
+      "slug": "canary-omg-full-loop-project",
+      "count": 1
+    },
     {
       "label": "Projects",
       "slug": "index",
@@ -24,14 +29,19 @@
   ],
   "recentlyUpdated": [
     {
+      "pageId": "projects:canary-omg-full-loop-project",
+      "title": "Starter Project Documentation Checklist",
+      "updatedAt": "2026-05-24T22:06:41.209Z"
+    },
+    {
       "pageId": "projects:index",
       "title": "Projects",
-      "updatedAt": "2026-05-24T20:25:00.600Z"
+      "updatedAt": "2026-05-24T22:06:41.210Z"
     },
     {
       "pageId": "projects:projects-starter-content",
       "title": "Research Projects starter content",
-      "updatedAt": "2026-05-24T20:25:00.601Z"
+      "updatedAt": "2026-05-24T22:06:41.210Z"
     }
   ]
 }

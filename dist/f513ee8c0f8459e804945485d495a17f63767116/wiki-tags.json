@@ -10,9 +10,17 @@
       ]
     },
     {
-      "tag": "research",
+      "tag": "projects",
       "count": 1,
       "pages": [
+        "projects:canary-omg-full-loop-project"
+      ]
+    },
+    {
+      "tag": "research",
+      "count": 2,
+      "pages": [
+        "projects:canary-omg-full-loop-project",
         "projects:projects-starter-content"
       ]
     }

@@ -7,6 +7,21 @@
   },
   "pages": [
     {
+      "id": "projects:canary-omg-full-loop-project",
+      "title": "Starter Project Documentation Checklist",
+      "slug": "canary-omg-full-loop-project",
+      "tags": [
+        "research",
+        "projects"
+      ],
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      }
+    },
+    {
       "id": "projects:index",
       "title": "Projects",
       "slug": "index",
